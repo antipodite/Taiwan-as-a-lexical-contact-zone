@@ -1,0 +1,4 @@
+Formosan taxa: 55; all taxa: 209
+Cognate sets used: 9443
+Found only in Formosan languages: 2952
+  ... of which in two or more doculects: 1516

@@ -1,0 +1,36 @@
+
+The downloaded binary packages are in
+	/var/folders/tt/3kp3xpbj6bd76cmk4rtf4j040000gp/T//Rtmp6XOjVR/downloaded_packages
+package ‘rnaturalearthhires’ successfully unpacked and SHA256 sums checked
+
+The downloaded binary packages are in
+	/var/folders/tt/3kp3xpbj6bd76cmk4rtf4j040000gp/T//Rtmp6XOjVR/downloaded_packages
+R version 4.6.1 (2026-06-24) 
+tidyverse 2.0.0
+data.table 1.18.6.1
+devtools 2.5.2
+remotes 2.5.0
+XML 3.99.0.25
+ape 5.8.1
+phangorn 2.12.1
+phytools 2.5.2
+TreeTools 2.5.0
+gridExtra 2.3.1
+cowplot 1.2.0
+patchwork 1.3.2
+ragg 1.5.2
+viridis 0.6.5
+igraph 2.3.4
+ggraph 2.2.2
+ggrepel 0.9.8
+reshape2 1.4.5
+sf 1.1.3
+rnaturalearth 1.2.0
+rnaturalearthdata 1.0.0
+mapdata 2.3.1
+reticulate 1.47.0
+BiocManager 1.30.27
+treeio 1.36.1
+ggtree 4.2.0
+rnaturalearthhires 1.0.0.9000
+rBt 0.1

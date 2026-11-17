@@ -1,0 +1,363 @@
+cognate_set     	  language_id	name         	family       	  latitude	  longitude	primary_branch             	glottocode  	form            	segments
+eye-2           	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	loziq
+eye-2           	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ro-i
+eye-2           	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	rao-i
+eye-2           	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	raoyăk
+eye-2           	          256	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	roẓíʔ
+eye-2           	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	dau'ík
+eye-2           	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	dourik
+eye-2           	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	daorek
+eye-2           	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	darik
+eye-2           	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	daurík
+eye-2           	          275	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	dóríq
+eye-2           	          275	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	dourŭk
+eye-2           	          742	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	rawiq
+eye-2           	          760	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	daurik
+eye-2           	          802	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	royiq
+eye-2           	          819	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	roziq
+eye-2           	          820	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	doriq
+eye-2           	          821	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	doriq
+eye-2           	          822	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	doriʡ
+eye-2           	          823	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	doriq
+eye-2           	         1696	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	roziq
+eye-2           	         1697	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	royiq
+when-2          	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	knuan
+when-2          	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	kinuaial
+when-2          	          256	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	cikanón
+when-2          	          260	Kavalan      	Austronesian 	   24.6947	    121.645	East Formosan              	east2493    	qonían
+when-2          	          274	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	kaʔinowan
+when-2          	          274	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	ʔinowan
+when-2          	          275	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	kənú'an
+when-2          	          275	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	kanuan
+when-2          	          742	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	kanuwan
+when-2          	          802	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	knuwan
+when-2          	          817	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	ʔinoan
+when-2          	          817	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	kaʔinoan
+when-2          	          818	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	ʔinoan
+when-2          	          818	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	kaʔinoan
+when-2          	          819	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	knuwan
+when-2          	          820	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	knuwan
+when-2          	          820	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	sknuwan
+when-2          	          821	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	knuwan
+when-2          	          821	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	cnuwan
+when-2          	          822	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	knuwan
+when-2          	          822	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	snuwan
+when-2          	          823	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	knuwan
+when-2          	          823	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	snuwan
+when-2          	         1694	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	kanuwan
+toopenuncover-14	          138	Tsou         	Austronesian 	   23.216 	    120.787	Tsouic                     	tsou1250    	maávo
+toopenuncover-14	          138	Tsou         	Austronesian 	   23.216 	    120.787	Tsouic                     	tsou1250    	paávi
+toopenuncover-14	          742	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ɣumawah
+toopenuncover-14	          802	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ɣmawah
+toopenuncover-14	          817	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	awæh
+toopenuncover-14	          818	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	Lawæh
+toopenuncover-14	          819	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ɣmeh
+toopenuncover-14	          820	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	rmaguh
+toopenuncover-14	          821	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	rmawah
+toopenuncover-14	          822	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	rmawah
+toopenuncover-14	          823	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	rmawah
+toopenuncover-14	          824	Tsou         	Austronesian 	   23.216 	    120.787	Tsouic                     	tsou1250    	maavo
+toopenuncover-14	         1694	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	gumawah
+toopenuncover-14	         1695	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	gumawah
+new-41          	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	geqas
+new-41          	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	xiás
+new-41          	          742	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ʔiqas
+new-41          	          742	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ɣiqas
+new-41          	          760	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	xias
+new-41          	          802	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	xqayus
+new-41          	          819	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ɣiqas
+new-41          	         1694	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	giqas
+new-41          	         1696	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	giqas
+five-2          	          257	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	achab
+five-2          	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	hasub
+five-2          	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	hasuv
+five-2          	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	xasə́b
+five-2          	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	xasə́p
+five-2          	          274	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	'asəb
+five-2          	          635	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	nāhop
+five-2          	          635	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	nahup
+five-2          	          635	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	nachap
+five-2          	          636	Papora-Hoanya	Austronesian 	   24.324 	    120.577	Western Plains Austronesian	west2572    	hasip
+five-2          	          638	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	hasap
+five-2          	          638	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	kásap
+five-2          	          638	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	kassap
+five-2          	          638	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	sap
+five-2          	          638	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	kasat
+five-2          	          666	Vietnamese   	Austroasiatic	   20.6812	    105.774	Vietic                     	viet1250    	năm
+five-2          	          667	Central Khmer	Austroasiatic	   12.0515	    105.015	Khmeric                    	khme1253    	pram
+five-2          	          760	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	xasep
+five-2          	          817	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	asəb
+five-2          	          818	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	Lasəβ
+five-2          	          831	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	achab
+five-2          	          831	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	nachab
+head-34         	          241	Thao         	Austronesian 	   23.8333	    120.93 	Western Plains Austronesian	west2572    	punuq
+head-34         	          257	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	oeno
+head-34         	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	punúʔ
+head-34         	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	ponō
+head-34         	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	pounat
+head-34         	          635	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	hunō
+head-34         	          635	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	hunu
+head-34         	          635	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	oeno
+head-34         	          635	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	punu
+head-34         	          760	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	punu
+head-34         	          831	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	oeno
+nose-26         	          241	Thao         	Austronesian 	   23.8333	    120.93 	Western Plains Austronesian	west2572    	muzin
+nose-26         	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	mużiŋ
+nose-26         	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	mujing
+nose-26         	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	mouding
+nose-26         	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	muzíŋ
+nose-26         	          275	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	múhiŋ
+nose-26         	          275	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	mohing
+nose-26         	          638	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	mohong
+nose-26         	          760	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	muzing
+nose-26         	          820	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	muhiŋ
+nose-26         	          821	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	muhiŋ
+nose-26         	          822	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	muhiŋ
+nose-26         	          823	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	muhiŋ
+mother-2        	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	iaiaʔ
+mother-2        	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	aia
+mother-2        	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yaya
+mother-2        	          256	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yayaʔ
+mother-2        	          274	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	ʔoyaʔ
+mother-2        	          635	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	kaya
+mother-2        	          637	Papora-Hoanya	Austronesian 	   24.324 	    120.577	Western Plains Austronesian	west2572    	kayā
+mother-2        	          637	Papora-Hoanya	Austronesian 	   24.324 	    120.577	Western Plains Austronesian	west2572    	kaya
+mother-2        	          637	Papora-Hoanya	Austronesian 	   24.324 	    120.577	Western Plains Austronesian	west2572    	kaiya
+mother-2        	          637	Papora-Hoanya	Austronesian 	   24.324 	    120.577	Western Plains Austronesian	west2572    	qaya
+mother-2        	          638	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	aya
+mother-2        	          638	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	yaya
+mother-2        	          742	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yayaʔ
+mother-2        	          742	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ʔayaʔ
+mother-2        	          802	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yayaʔ
+mother-2        	          817	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	oʔyaʔ
+mother-2        	          818	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	oʔyaʔ
+mother-2        	          819	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yayaʔ
+mother-2        	          819	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ʔayaʔ
+mother-2        	         1694	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yayaʔ
+mother-2        	         1695	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yayaʔ
+mother-2        	         1696	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yayaʔ
+mother-2        	         1697	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yayaʔ
+mother-2        	         1698	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yaya
+mother-2        	         1699	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yayaʔ
+mother-2        	         1700	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yaya
+father-14       	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	iabaʔ
+father-14       	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yaba
+father-14       	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yava
+father-14       	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	aba
+father-14       	          256	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yábaʔ
+father-14       	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	abáʔ
+father-14       	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	ʔabáʔ
+father-14       	          274	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	yabaʔ
+father-14       	          331	Old Chinese  	Sino-Tibetan 	   36.12  	    114.32 	Sinitic                    	sini1245    	*aʔ
+father-14       	          638	Babuza       	Austronesian 	   24.0017	    120.585	Western Plains Austronesian	west2572    	yava
+father-14       	          691	Duoluo Gelao 	Tai-Kadai    	   23.0196	    105.07 	Kadaic                     	kada1291    	a55 ba33
+father-14       	          742	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yaßaʔ
+father-14       	          742	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ʔaßaʔ
+father-14       	          760	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	aba
+father-14       	          802	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yaβaʔ
+father-14       	          817	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	yabaʔ
+father-14       	          818	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	yaβaʔ
+father-14       	          819	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yaβaʔ
+father-14       	          819	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ʔaβaʔ
+father-14       	         1694	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yabaʔ
+father-14       	         1695	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yabaʔ
+father-14       	         1696	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yabaʔ
+father-14       	         1697	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yabaʔ
+father-14       	         1698	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yaba
+father-14       	         1699	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yabaʔ
+father-14       	         1700	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	yaba
+fruit-2         	          203	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	macuʔu
+fruit-2         	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	madu
+fruit-2         	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	madú?
+fruit-2         	          272	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	madə́'
+fruit-2         	          273	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	masoʔo
+fruit-2         	          760	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	madu
+fruit-2         	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	maɖo
+fruit-2         	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	maɖo
+fruit-2         	          814	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	mɖoo
+fruit-2         	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	maɖo
+fruit-2         	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	maðo
+fruit-2         	          825	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	macuʔu
+fruit-2         	          826	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	masuʔu
+painfulsick-3   	          272	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	macaəm
+painfulsick-3   	          273	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	macarəmə
+painfulsick-3   	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	macaəm
+painfulsick-3   	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	macaəmə
+painfulsick-3   	          814	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	macɨmɨ
+painfulsick-3   	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	macaʔəmə
+painfulsick-3   	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	macaʔəmə
+painfulsick-3   	          826	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	maacarəm
+tosniffsmell-3  	          272	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	wasabáliʔ
+tosniffsmell-3  	          273	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	uma:bali
+tosniffsmell-3  	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	wasabaɭi
+tosniffsmell-3  	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	wasabaɭi
+tosniffsmell-3  	          814	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	usbare
+tosniffsmell-3  	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	wasabai
+tosniffsmell-3  	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	oʔavaɭi
+tosniffsmell-3  	          826	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	umavali
+tospit-3        	          203	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	ŋái
+tospit-3        	          272	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	ŋalái
+tospit-3        	          273	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	ŋalíʔi
+tospit-3        	          350	Amis         	Austronesian 	   23.0917	    121.348	East Formosan              	east2493    	ngalay
+tospit-3        	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	swaŋaɭay
+tospit-3        	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	swaŋaɭay
+tospit-3        	          814	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	usŋare
+tospit-3        	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	wasoŋaay
+tospit-3        	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	ʔoŋaɭai
+tospit-3        	          825	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	puaŋaai
+tospit-3        	          826	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	mauŋali
+toflow-25       	          138	Tsou         	Austronesian 	   23.216 	    120.787	Tsouic                     	tsou1250    	moheóvcu
+toflow-25       	          272	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	moʔarór
+toflow-25       	          273	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	mua:ɬuso
+toflow-25       	          759	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	muɭuɖun
+toflow-25       	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	mwaloɖo
+toflow-25       	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	mwaloɖo
+toflow-25       	          814	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	moluɖu
+toflow-25       	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	mwaloɖo
+toflow-25       	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	moloðo
+toflow-25       	          824	Tsou         	Austronesian 	   23.216 	    120.787	Tsouic                     	tsou1250    	moxrovcu
+toflow-25       	          825	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	maʔacunu
+toflow-25       	          826	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	muaɬusu
+shoulder-49     	          203	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	aŋiyacaŋṵ
+shoulder-49     	          272	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	livadáŋ
+shoulder-49     	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	alivaɖaŋə
+shoulder-49     	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	aliaðaŋaaə
+shoulder-49     	          825	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	ʔaniacaŋə
+todrink-44      	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	t-m-ekel
+todrink-44      	          759	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	tekeɭ
+todrink-44      	          806	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	təməkəL
+todrink-44      	          807	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	təməkəL
+todrink-44      	          808	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	təməkəL
+todrink-44      	          809	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	ʈəmkəɭ
+todrink-44      	          810	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	ʈəmkəɭ
+todrink-44      	          811	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	ʈəmkəɭ
+todrink-44      	         1328	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	tekel
+sea-51          	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	ɬavek
+sea-51          	          271	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	ləvə́k
+sea-51          	          806	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	ɬavək
+sea-51          	          807	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	lavək
+sea-51          	          808	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	ɬavək
+sea-51          	          810	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	ləβək
+sea-51          	          811	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	ləvək
+sea-51          	         1328	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	ɬavek
+that-13         	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	a-zua
+that-13         	          271	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	ʔiẓu'á'
+that-13         	          806	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	azuwa
+that-13         	          807	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	azuwa
+that-13         	          808	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	azuwa
+that-13         	          809	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	iɖunu
+that-13         	          810	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	iʐu
+that-13         	          811	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	iʐu
+that-13         	         1328	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	azua
+tofall-4        	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	ma-tjani
+tofall-4        	          271	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	mutaniʔ
+tofall-4        	          759	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	utani
+tofall-4        	          806	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	matani
+tofall-4        	          808	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	matani
+tofall-4        	          809	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	mutani
+tofall-4        	          810	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	mutani
+tofall-4        	          811	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	mutani
+tofall-4        	         1328	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	matjani
+onethousand-7   	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	takuzuɬ
+onethousand-7   	          759	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	sa kuɖul
+onethousand-7   	         1328	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	kuzuɬ
+year-22         	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	tsaviɬ
+year-22         	          272	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	caili
+year-22         	          276	Sirayaic     	Austronesian 	   22.9777	    120.315	East Formosan              	east2493    	tawil
+year-22         	          276	Sirayaic     	Austronesian 	   22.9777	    120.315	East Formosan              	east2493    	tauwil
+year-22         	          806	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	caviɬ
+year-22         	          807	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	caviɬ
+year-22         	          808	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	caviɬ
+year-22         	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	caili
+year-22         	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	caili
+year-22         	          814	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	cvele
+year-22         	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	cavili
+year-22         	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	caili
+year-22         	          825	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	cainana
+year-22         	          826	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	caiɬa
+year-22         	         1328	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	tsaviɬ
+year-22         	         1517	Sirayaic     	Austronesian 	   22.9777	    120.315	East Formosan              	east2493    	tawil
+year-22         	         1519	Sirayaic     	Austronesian 	   22.9777	    120.315	East Formosan              	east2493    	tawil
+toopenuncover-52	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	s-m-uqeɬev
+toopenuncover-52	          806	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	səmuqəɬəv
+toopenuncover-52	          807	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	səmuʔələv
+toopenuncover-52	          808	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	səmuqəɬəv
+toopenuncover-52	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	moləbə
+toopenuncover-52	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	mwaələbə
+toopenuncover-52	          814	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	ualɨbɨ
+toopenuncover-52	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	waʔələbə
+toopenuncover-52	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	oʔələvə
+toopenuncover-52	          825	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	putuʔənəvə
+toopenuncover-52	         1517	Sirayaic     	Austronesian 	   22.9777	    120.315	East Formosan              	east2493    	maxu-lip
+toopenuncover-52	         1519	Sirayaic     	Austronesian 	   22.9777	    120.315	East Formosan              	east2493    	ääw-'l'b-ey-kame
+toscratch-62    	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	g-m-utsgusts
+toscratch-62    	          272	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	ʔogacəgácə
+toscratch-62    	          806	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	gəmucguc
+toscratch-62    	          807	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	gəmucguc
+toscratch-62    	          808	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	gəmucguc
+toscratch-62    	          809	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	gumuʈguʈ
+toscratch-62    	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	wagacəgacə
+toscratch-62    	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	wagacəgacə
+toscratch-62    	          814	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	ugcəgcə
+toscratch-62    	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	wagaθəgaθə
+star-45         	          271	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	atior
+star-45         	          271	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	teol
+star-45         	          272	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	tariáu
+star-45         	          759	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	ʈiqur
+star-45         	          809	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	tiʔur
+star-45         	          810	Puyuma       	Austronesian 	   22.643 	    120.996	Puyuma                     	puyu1239    	tiɦur
+star-45         	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	tariaw
+star-45         	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	tariaw
+star-45         	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	taiaw
+star-45         	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	tario
+toswell-46      	          138	Tsou         	Austronesian 	   23.216 	    120.787	Tsouic                     	tsou1250    	euoféoʉ
+toswell-46      	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	valak
+toswell-46      	          177	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	velak
+toswell-46      	          806	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	minvaLak
+toswell-46      	          807	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	minəvaLak
+toswell-46      	          808	Paiwan       	Austronesian 	   22.3271	    120.806	Paiwan                     	paiw1248    	minvaLak
+toswell-46      	          812	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	mwabaɭakə
+toswell-46      	          813	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	mwabaɭakə
+toswell-46      	          814	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	abrakɨ
+toswell-46      	          815	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	ʔabaakə
+toswell-46      	          816	Rukai        	Austronesian 	   22.7738	    120.844	Rukai                      	ruka1240    	ʔovaɭakə
+toswell-46      	          824	Tsou         	Austronesian 	   23.216 	    120.787	Tsouic                     	tsou1250    	ruofroʔə
+toswell-46      	          825	Kanakanavu   	Austronesian 	   23.3235	    120.887	Tsouic                     	tsou1250    	muruvaakə
+toswell-46      	          826	Saaroa       	Austronesian 	   23.2632	    120.711	Tsouic                     	tsou1250    	muluvalakə
+day-15          	          202	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	hanian
+day-15          	          255	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	qlian
+day-15          	          256	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ʔalen
+day-15          	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	dalí
+day-15          	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	dalí'an
+day-15          	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	liahan
+day-15          	          266	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	da:líʔ
+day-15          	          726	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	qaniʔ-an
+day-15          	          760	Pazeh-Kahabu 	Austronesian 	   23.7562	    120.976	Northwest Formosan         	nort2899    	dali
+day-15          	          803	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	diqanin
+day-15          	          804	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	diqanin
+day-15          	          805	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	tasto hanian
+day-15          	         1695	Atayal       	Austronesian 	   24.5209	    121.388	Atayalic                   	atay1246    	ʔalen
+dry-2           	          202	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	mahaliv
+dry-2           	          241	Thao         	Austronesian 	   23.8333	    120.93 	Western Plains Austronesian	west2572    	ma-qalhiw
+dry-2           	          274	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	ʔäʔä'iw
+dry-2           	          817	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	ʔææʔæiw
+dry-2           	          818	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	ʔæLʔæLiw
+thunder-24      	          202	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	b̂ilvaʔ
+thunder-24      	          274	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	bi'waʔ
+thunder-24      	          275	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	burú'aʔ
+thunder-24      	          275	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	mabarua
+thunder-24      	          726	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	bitvaq
+thunder-24      	          803	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	bicvaq
+thunder-24      	          804	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	bitvaqan
+thunder-24      	          805	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	bitvah
+thunder-24      	          805	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	biɬvaʔ
+thunder-24      	          817	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	biiwaʔ
+thunder-24      	          818	Saisiyat     	Austronesian 	   24.6043	    121.067	Northwest Formosan         	nort2899    	βiLwaʔ
+thunder-24      	          820	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	bruwa
+thunder-24      	          821	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	bruwa
+thunder-24      	          822	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	bruwa
+thunder-24      	          823	Seediq       	Austronesian 	   23.9032	    121.358	Atayalic                   	atay1246    	bruwa
+shyashamed-46   	          241	Thao         	Austronesian 	   23.8333	    120.93 	Western Plains Austronesian	west2572    	m-ayaw
+shyashamed-46   	          803	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	maðʔav
+shyashamed-46   	          804	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	maðʔav
+shyashamed-46   	          805	Bunun        	Austronesian 	   23.4116	    121.025	Bunun                      	bunu1267    	maðʔav

@@ -1,0 +1,246 @@
+ID	ISO	Glottocode	Language	Slug	NLexemes	NCognates	Author	Latitude	Longitude	Classification
+3	bdg	bong1289	Banggi	Banggi_3	159	109	Blust, from Schneeberger	7.2925	117.1745	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Palawanic
+5	bnq	bant1286	Bantik	Bantik_5	233	165	L. Theddon	1.4940	124.8486	Austronesian, Malayo-Polynesian, Philippine, Sangiric, Southern
+12	gor	goro1259	Gorontalo (Hulondalo)	Gorontalo_Hulondalo_12	216	144	Hamzah Machmoed	0.5493	122.6733	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Gorontalo-Mongondow, Gorontalic
+13	hnn	hanu1241	Hanunóo	Hanunoo_13	249	214	Blust, from: Conklin (1953)	12.4688	121.2451	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, South Mangyan, Hanunoo
+29	kzp	kaid1239	Kaidipang	Kaidipang_29	205	158	Hunggu Tadjuddin Usup	0.8844	123.0963	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Gorontalo-Mongondow, Gorontalic
+31	ilk	ilon1239	Kakiduge:n Ilongot	Kakidugen_Ilongot_31	206	174	Reid (1971)	17.0215	121.1142	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Southern Cordilleran, Ilongot
+33	pam	pamp1243	Kapampangan	Kapampangan_33	231	186	Blust from: Forman (1971), McFarland 1977	14.9866	122.2867	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Pampangan
+36	lbk	guin1256	Bontok, Guina-ang	Bontok_Guina-Ang_36	285	244	Lawrence A. Reid	17.0000	121.0000	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Nuclear Cordilleran, Bontok-Kankanay, Bontok
+43	akl	akla1241	Aklanon - Bisayan	Aklanon_Bisayan_43	240	220	Dave Zorc	11.5339	122.3657	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, West, Aklan
+47	bcl	cent2087	Bikol (Naga City)	Bikol_Naga_City_47	228	199	Amy V. Daniega	13.5819	123.1787	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bikol, Coastal, Naga
+86	mrw	mara1404	Maranao	Maranao_86	224	189	McKaughan & Macaraya (1967)	7.7219	124.1455	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Danao, Maranao-Iranon
+133	tbl	tbol1240	Tboli (Tagabili)	Tboli_Tagabili_133	212	183	Lawrence A. Reid	6.2279	124.3542	Austronesian, Malayo-Polynesian, Philippine, Bilic, Tboli
+137	tnt	tont1239	Tontemboan	Tontemboan_137	211	138	NY. J. A. Karisoh	1.1645	124.5630	Austronesian, Malayo-Polynesian, Philippine, Minahasan, North
+138	tsu	tsou1248	Tsou T63	Tsou_T63_138	231	194	Blust, from: Tung (1963)	23.5000	120.7500	Austronesian, Tsouic, Tsou
+144	mbb	west2555	Western Bukidnon Manobo	Western_Bukidnon_Manobo_144	213	199	Lawrence A. Reid	7.6674	124.7168	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, Central, West
+153	ceb	cebu1242	Cebuano	Cebuano_153	271	239	Gemma Losbaños & Hermelito Go	10.4338	123.8159	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Cebuan
+157	ivv	ivat1242	Itbayaten	Itbayaten_157	216	203	Lawrence A. Reid	20.7510	121.8384	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan
+177	pwn	paiw1248	Paiwan (Kulalao F82)	Paiwan_Kulalao_F82_177	222	202	Ferrell (1982)	22.2891	120.7837	Austronesian, Paiwan
+183	sxn	sang1336	Sangir	Sangir_183	216	192	Blust, from: Steller & Aebersold (1959)	1.4171	125.2112	Austronesian, Malayo-Polynesian, Philippine, Sangiric, Northern
+193	hil	hili1240	Hiligaynon	Hiligaynon_193	115	112	Jamaica Salcedo	10.4018	122.9740	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Peripheral
+202	bnn	bunu1267	Bunun F69, Southern	Bunun_F69_Southern_202	245	208	Ferrell (1969)	23.2652	121.9138	Austronesian, Bunun
+203	xnb	kana1286	Kanakanabu F69	Kanakanabu_F69_203	148	133	Ferrell (1969)	23.0440	120.5900	Austronesian, Tsouic, Kanakanabu
+240	mog	mong1342	Bolaang Mongondow	Bolaang_Mongondow_240	228	169	Blust, from: Dunnebier (1765)	0.9818	124.7642	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Gorontalo-Mongondow, Mongondowic
+241	ssf	thao1240	Thao B96	Thao_B96_241	217	110	Blust	23.8758	120.8771	Austronesian, Western Plains, Thao
+248	ivv	ivat1242	Iraralay	Iraralay_248	329	311	Tsuchida et al. (1987)	20.8100	121.8686	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan
+249	ivv	ivat1242	Itbayat	Itbayat_249	393	371	Tsuchida et al. (1987)	20.7510	121.8384	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan
+250	ivv	ivat1242	Imorod	Imorod_250	330	316	Tsuchida et al. (1987)	20.7664	121.8521	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan
+251	ivv	ivat1242	Ivasay	Ivasay_251	316	303	Tsuchida et al. (1987)	20.3858	121.9482	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan
+252	ivv	ivat1242	Isamorong	Isamorong_252	322	307	Tsuchida et al. (1987)	20.7253	121.8191	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan
+254	tao	yami1254	Yami	Yami_254	239	190	Ferrell (1969)	21.1127	121.9537	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Yami
+255	tay	atay1247	Atayal - Squliq F69	Atayal_Squliq_F69_255	313	289	Ferrell (1969)	24.5671	121.4539	Austronesian, Atayalic, Atayal, Squliq
+256	tay	atay1247	Atayal - C'uli' F69 (Bandai)	Atayal_Culi_F69_Bandai_256	199	150	Ferrell (1969)	24.5471	121.3000	Austronesian, Atayalic, Atayal, C'uli'
+257	bzg	babu1240	Favorlang F69	Favorlang_F69_257	233	202	Ferrell (1969)	23.8959	120.7507	Austronesian, Western Plains, Central Western Plains, Favorlang-Babuza
+260	ckv	kava1241	Kavalan F69	Kavalan_F69_260	457	383	Ferrell (1969)	24.9163	121.8054	Austronesian, East Formosan, Northern, Kavalan
+265	plw	bata1301	Palawan Batak	Palawan_Batak_265	361	317	Lawrence A. Reid	9.7683	119.5695	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Palawanic
+266	uun	kulo1237	Pazih F69	Pazih_F69_266	443	396	Ferrell (1969)	23.2652	121.9138	Austronesian, Northwest Formosan
+271	pyu	puyu1239	Puyuma (Chihpen F69)	Puyuma_Chihpen_F69_271	320	279	Ferrell (1969)	22.7838	121.1105	Austronesian, Puyuma
+272	dru	ruka1240	Rukai (Budai F69)	Rukai_Budai_F69_272	246	203	Ferrell (1969)	22.8167	120.9155	Austronesian, Rukai
+273	sxr	saar1237	Saaroa F69	Saaroa_F69_273	287	236	Ferrell (1969)	22.8110	120.5910	Austronesian, Tsouic, Saaroa
+274	xsy	sais1237	Saisiyat F69	Saisiyat_F69_274	192	168	Ferrell (1969)	24.5646	120.9952	Austronesian, Northwest Formosan
+275	trv	taro1264	Seediq F69 (Sakura)	Seediq_F69_Sakura_275	277	236	Ferrell (1969)	24.1468	121.4539	Austronesian, Atayalic, Seediq
+276	fos	sira1267	Siraya F69	Siraya_F69_276	390	300	Ferrell (1969)	22.9179	120.7617	Austronesian, East Formosan, Southwest
+277	tgl	taga1270	Tagalog	Tagalog_277	230	217	Ted Llamzon	14.5623	121.0693	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Tagalog
+279	ibg	iban1267	Ibanag	Ibanag_279	218	195	Telan Family	17.4240	121.9482	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic
+288	ilo	ilok1237	Ilokano	Ilokano_288	222	189	Blust	17.6440	121.1133	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Ilocano
+289	ivv	babu1242	Babuyan	Babuyan_289	321	288	Tsuchida et al. (1987)	19.5184	121.9592	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan
+291	bpr	koro1310	Koronadal Blaan	Koronadal_Blaan_291	174	173	Savage, T.D. (1986)	6.0313	125.0684	Austronesian, Malayo-Polynesian, Philippine, Bilic, Blaan
+293	bps	sara1326	Sarangani Blaan	Sarangani_Blaan_293	163	161	Savage, T.D. (1986)	5.8783	125.3320	Austronesian, Malayo-Polynesian, Philippine, Bilic, Blaan
+335	tao	yami1254	Yami	Yami_335	190	172	D. Victoria Rau	23.2652	121.9138	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Yami
+350	ami	amis1246	Amis (Central)	Amis_Central_350	338	278	R. Blust, Dorinda Liu	23.1303	121.3330	Austronesian, East Formosan, Amis
+351	yzg	emab1235	Buyang (Langjia)	Buyang_Langjia_351	207	160	Laurent Sagart	25.0060	101.9531	Tai-Kadai, Kra, Eastern Kra
+369	byq	basa1287	Basay TsYM91	Basay_Tsym91_369	168	113	Laurent Sagart	23.2652	121.9138	Austronesian, East Formosan, Northern, Basay
+389	tgl	taga1270	Tagalog	Tagalog_389	228	223	My knowledge in Tagalog	14.1111	121.8793	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Tagalog
+405	pag	pang1290	Pangasinan	Pangasinan_405	308	222	Emerich Daroya	15.9200	120.3300	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Southern Cordilleran, West Southern Cordilleran
+408	tgl	taga1270	Tagalog (Anthony dela Paz)	Tagalog_Anthony_Dela_Paz_408	235	230	Anthony dela Paz	14.1111	121.8793	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Tagalog
+409	agt	cent2084	Agta	Agta_409	182	150	R. Mayfield in Reid (1971)	18.1980	121.9592	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic, Gaddangic
+410	att	pamp1244	Atta, Pamplona	Atta_Pamplona_410	205	172	C. Whittle & R. Lusted in Reid (1971)	18.1250	120.9155	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic
+411	blw	bala1310	Balangaw	Balangaw_411	184	158	J. Shetler in Reid (1971)	17.1700	121.1700	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Nuclear Cordilleran, Balangaw
+412	bya	bata1301	Batak, Palawan	Batak_Palawan_412	184	172	R. Rodda in Reid (1971)	10.0815	119.5361	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Palawanic
+413	bpr	koro1310	Bilaan, Koronadal	Bilaan_Koronadal_413	182	176	N. Abrams in Reid (1971)	6.2053	125.0066	Austronesian, Malayo-Polynesian, Philippine, Bilic, Blaan
+414	bps	sara1326	Bilaan, Sarangani	Bilaan_Sarangani_414	184	172	B. McLachlin & B. Blackburn in Reid (1971)	6.0000	125.3333	Austronesian, Malayo-Polynesian, Philippine, Bilic, Blaan
+415	bkd	binu1244	Binukid	Binukid_415	217	194	U. Post in Reid (1971)	8.2500	124.8300	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, North
+416	lbk	guin1256	Bontok, Guina-ang	Bontok_Guina-Ang_416	190	177	Reid (1971)	17.0800	120.9200	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Nuclear Cordilleran, Bontok-Kankanay, Bontok
+417	dgc	casi1235	Dumagat, Casiguran	Dumagat_Casiguran_417	181	147	T.N. Headland in Reid (1971)	16.7835	122.0142	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Northeastern Luzon, Northern
+418	gad	gadd1244	Gaddang	Gaddang_418	184	144	L. & M. Troyer in Reid (1971)	16.5520	121.2451	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic, Gaddangic
+419	ifa	amga1235	Ifugao, Amganad	Ifugao_Amganad_419	183	164	S. Funnell & A. West in Reid (1971)	16.8982	120.9596	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Nuclear Cordilleran, Ifugaw
+420	ifb	bata1298	Ifugao, Batad	Ifugao_Batad_420	175	156	L.E. Newell, in Reid (1971)	16.8982	120.9596	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Nuclear Cordilleran, Ifugaw
+421	ify	kele1259	Ifugao, Bayninan	Ifugao_Bayninan_421	184	167	H.C. Conklin in Reid (1971)	16.8982	120.9596	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Southern Cordilleran, West Southern Cordilleran, Nuclear Southern Cordilleran, Kallahan
+422	ilk	ilon1239	Ilongot, Kakiduge:n	Ilongot_Kakidugen_422	181	158	M. Rosaldo in Reid (1971)	17.0215	121.1142	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Southern Cordilleran, Ilongot
+423	ibl	ibal1244	Inibaloi	Inibaloi_423	183	164	L. Ballard in Reid (1971)	14.9866	122.2867	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Southern Cordilleran, West Southern Cordilleran, Nuclear Southern Cordilleran, Ibaloy
+424	isd	isna1241	Isneg, Dibagat-Kabugao-Isneg	Isneg_Dibagat-Kabugao-Isneg_424	186	152	G.R. Roe in Reid (1971)	17.9182	122.1359	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Isnag
+425	ivv	ivat1242	Itbayaten	Itbayaten_425	183	181	Y. Yamada in Reid (1971)	20.3333	121.8333	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan
+426	itb	bino1237	Itneg, Binongan	Itneg_Binongan_426	181	154	C. Walton in Reid (1971)	17.9182	122.1359	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Kalinga-Itneg, Itneg
+427	ivv	ivat1242	Ivatan, Basco Dialect	Ivatan_Basco_Dialect_427	185	175	M. Cottle, V. Larson & L. A. Reid in Reid (1971)	20.5000	122.0000	Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan
+428	kqe	kala1388	Kalagan	Kalagan_428	184	160	D. Murray in Reid (1971)	7.1000	125.5950	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Mansakan, Western
+429	knb	lubu1243	Kalinga, Guinaang, Lubuagan Dialect	Kalinga_Guinaang_Lubuagan_Dialect_429	221	198	C.R. Geiser in Reid (1971)	17.5812	121.2012	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Kalinga-Itneg, Kalinga
+430	kak	kaya1320	Kallahan, Kayapa Proper	Kallahan_Kayapa_Proper_430	185	166	P.O. Afable in Reid (1971)	16.3518	120.8881	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Southern Cordilleran, West Southern Cordilleran, Nuclear Southern Cordilleran, Kallahan
+431	ify	kele1259	Kallahan, Keleyqiq	Kallahan_Keleyqiq_431	184	156	R & L. Hohulin in Reid (1971)	16.7020	121.1009	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Southern Cordilleran, West Southern Cordilleran, Nuclear Southern Cordilleran, Kallahan
+432	xnn	nort2877	Kankanay, Northern	Kankanay_Northern_432	184	163	D. Hettick in Reid (1971)	16.8982	120.9596	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Nuclear Cordilleran, Bontok-Kankanay, Kankanay
+433	mmn	mama1275	Mamanwa	Mamanwa_433	190	169	J. & H. Miller in Reid (1971)	9.1889	125.8374	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Mamanwa
+434	atd	atam1240	Manobo, Ata (up-river)	Manobo_Ata_Up-River_434	215	206	V. Morey & U. Post in Reid (1971)	7.7015	124.2739	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, Central, South, Ata-Tigwa
+435	atd	atam1240	Manobo, Ata (down-river)	Manobo_Ata_Down-River_435	184	182	V. Morey & U. Post in Reid (1971)	7.6661	124.2162	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, Central, South, Ata-Tigwa
+436	mbd	diba1242	Manobo, Dibabawon	Manobo_Dibabawon_436	184	167	J. Forster in Reid (1971)	7.6896	124.2482	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, Central, East
+437	mbi	ilia1236	Manobo, Ilianen (Kibudtungan Dialect)	Manobo_Ilianen_Kibudtungan_Dialect_437	187	174	J. Shand & H. Wrigglesworth in Reid (1971)	7.2208	124.2471	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, Central, West
+438	mta	cota1241	Manobo, Kalamansig Cotabato (Paril Dialect)	Manobo_Kalamansig_Cotabato_Paril_Dialect_438	195	147	E. C. Johnston in Reid (1971)	7.6908	124.2478	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, South
+439	mbs	sara1327	Manobo, Sarangani, Kayaponga Dialect	Manobo_Sarangani_Kayaponga_Dialect_439	184	158	C. DuBois in Reid (1971)	5.9220	125.2222	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, South
+440	mbt	mati1250	Manobo, Tigwa, Iglogsad Dialect	Manobo_Tigwa_Iglogsad_Dialect_440	183	173	C. Strong in Reid (1971)	7.6402	124.3790	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, Central, South, Ata-Tigwa
+441	mbb	west2555	Manobo, Western Bukidnon	Manobo_Western_Bukidnon_441	183	180	R.E.Elkins in Reid (1971)	7.6700	124.7500	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, Central, West
+442	msk	mans1262	Mansaka	Mansaka_442	231	194	G. Svelmoe in Reid (1971)	7.0954	126.1780	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Mansakan, Eastern
+444	sbl	boto1242	Sambal, Botolan	Sambal_Botolan_444	245	209	C. Huock and H. Minot in Reid (1971)	15.2630	120.2014	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic
+445	snl	sang1337	Sangil, Saragani Islands	Sangil_Saragani_Islands_445	184	159	K. Maryott in Reid (1971)	9.9384	125.0780	Austronesian, Malayo-Polynesian, Philippine, Sangiric, Northern
+446	sxn	sang1336	Sangir, Tabukang Dialect	Sangir_Tabukang_Dialect_446	196	175	A. Maryott in Reid (1971)	3.5000	125.5000	Austronesian, Malayo-Polynesian, Philippine, Sangiric, Northern
+447	syb	cent2089	Subanun, Sindangan	Subanun_Sindangan_447	184	149	R. Brichoux in Reid (1971)	8.0283	123.3205	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Subanon, Eastern
+448	suc	west2557	Subanon, Siocon	Subanon_Siocon_448	191	165	W. Hall in Reid (1971)	7.8148	123.1930	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Subanon
+449	tbl	tbol1240	Tagabili	Tagabili_449	184	171	V. Forsberg in Reid (1971)	6.1700	124.5000	Austronesian, Malayo-Polynesian, Philippine, Bilic, Tboli
+450	tgt	cent2090	Tagbanwa, Aborlan Dialect	Tagbanwa_Aborlan_Dialect_450	184	158	S. Hussey in Reid (1971)	10.0815	119.5361	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Palawanic
+451	tbk	cala1258	Tagbanwa, Kalamian, Coron Island Dialect	Tagbanwa_Kalamian_Coron_Island_Dialect_451	184	145	E. Ruch in Reid (1971)	11.4476	120.6440	Austronesian, Malayo-Polynesian, Philippine, Kalamian
+452	tsg	taus1251	Tausug, Jolo Dialect	Tausug_Jolo_Dialect_452	220	195	S. Ashley in Reid (1971)	5.7041	121.2684	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, South, Butuan-Tausug
+458	ill	iran1262	Iranun	Iranun_458	218	172	Sean Conklin and Mabulmaddin Haji Shaiddin	6.5064	116.5430	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Danao, Maranao-Iranon
+466	sgd	suri1273	Surigaonon	Surigaonon_466	287	249	Richard Parker	8.8383	125.6211	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, South
+467	hil	hili1240	Ilonggo	Ilonggo_467	309	265	Richard Parker	10.2500	123.0000	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Peripheral
+483	btw	butu1244	Butuanon	Butuanon_483	276	229	Vicente de Jesus, Richard Parker, Fr. Joesilo C. Amalla	8.8701	125.4184	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, South, Butuan-Tausug
+494	plv	sout2916	S.W. Palawano	Sw_Palawano_494	341	238	Bill Davis	8.5539	117.3367	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Palawanic
+496	txs	tons1240	Tonsea	Tonsea_496	276	148	Billy S.C Ticoalu	1.5139	125.0521	Austronesian, Malayo-Polynesian, Philippine, Minahasan, North, Northeast
+513	war	wara1300	Waray-Waray	Waray-Waray_513	290	255	Andras Rajki	12.0000	125.0000	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Warayan, Samar-Waray
+593	laq	qabi1235	Qabiao	Qabiao_593	226	163	Liang, Zhang & Li (2007)	22.9878	104.8877	Tai-Kadai, Kra, Eastern Kra
+618	blf	buol1237	Buol	Buol_618	210	153	Erik Zobel	0.9773	121.5190	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Gorontalo-Mongondow, Gorontalic
+635	bzg	babu1240	Babuza Ts82	Babuza_Ts82_635	447	381	Tsuchida (1982)	24.0017	120.5846	Austronesian, Western Plains, Central Western Plains, Favorlang-Babuza
+636	ppu	papo1239	Hoanya Ts82	Hoanya_Ts82_636	529	400	Tsuchida (1982)	24.3240	120.5769	Austronesian, Western Plains, Central Western Plains
+637	ppu	papo1239	Papora Ts82	Papora_Ts82_637	411	361	Tsuchida (1982)	24.3240	120.5769	Austronesian, Western Plains, Central Western Plains
+638	bzg	babu1240	Taokas Ts82	Taokas_Ts82_638	816	680	Tsuchida (1982)	24.0017	120.5846	Austronesian, Western Plains, Central Western Plains
+649		nung1283	Lungchow	Lungchow_649	166	79	Gedney (ms) now published as part of Hudak (2008)	-	-	Tai-Kadai, Kam-Tai, Be-Tai, Tai-Sek, Tai, Central
+657	krj	kina1250	Kinaray-a	Kinaray-A_657	232	212	Arnel Genzola	10.8131	122.2969	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, West, Kinarayan
+660	cps	capi1239	Capisano	Capisano_660	158	146	Jose Ricarte	11.4122	122.9536	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Peripheral
+662	tha	thai1261	Thai, Siamese	Thai_Siamese_662	237	195	Pittayawat Pittayaporn	14.4926	100.7599	Tai-Kadai, Kam-Tai, Tai, Southwestern
+671	ksc	sout2908	Kalinga, Southern	Kalinga_Southern_671	172	139	Summer Institute of Linguistics (1980)	17.2936	121.0679	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Kalinga-Itneg, Kalinga
+672	kmk	limo1248	Kalinga, Limos	Kalinga_Limos_672	232	192	Summer Institute of Linguistics (1981)	17.6081	121.3806	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Kalinga-Itneg, Kalinga
+673	ebk	cent2292	Bontok, Eastern	Bontok_Eastern_673	195	155	Summer Institute of Linguistics (1981)	17.0319	121.1105	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Nuclear Cordilleran, Bontok-Kankanay, Bontok
+678	itv	itaw1240	Itawis	Itawis_678	229	200	Tharp & Natividad (1976)	17.7329	121.5796	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic
+679	ibl	ibal1244	Ibaloi	Ibaloi_679	262	186	Anton, Sofia Olga	16.4262	120.6951	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Southern Cordilleran, West Southern Cordilleran, Nuclear Southern Cordilleran, Ibaloy
+680	shn	shan1277	Shan	Shan_680	237	158	Sao Tern Moeng	21.5820	98.1363	Tai-Kadai, Kam-Tai, Tai, Southwestern
+681	kne	kank1243	Kankanaey	Kankanaey_681	233	194	Janet Allen	16.8548	120.6892	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Nuclear Cordilleran, Bontok-Kankanay, Kankanay
+685	mdh	magu1243	Maguindanaon	Maguindanaon_685	303	214	Robert E. Sullivan	6.9453	124.5086	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Danao, Magindanao
+686	agv	remo1247	Sinauna	Sinauna_686	188	122	Fe Aldave Yap	14.6254	121.4532	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sinauna
+687	rol	romb1245	Romblon	Romblon_687	213	198	Fe Aldave Yap	12.4047	122.5603	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Romblon
+688	cyo	cuyo1237	Cuyonon	Cuyonon_688	197	180	Fe Aldave Yap	10.3201	119.3003	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, West, Kuyan
+691	giw	whit1267	Gelao (Niupo)	Gelao_Niupo_691	177	36	Zhang Jimin	26.1545	106.2352	Tai-Kadai, Kra, Western Kra
+693	yha	baha1256	Buyang (Ecun)	Buyang_Ecun_693	212	163	Kosaka, Zhou, & Li	-	-	Tai-Kadai, Kra, Central Kra
+694	yha	baha1256	Paha	Paha_694	250	136	Li Jinfang & Luo Yongxian	-	-	Tai-Kadai, Kra, Central Kra
+695	giq	gree1278	Gelao (Zhenfeng)	Gelao_Zhenfeng_695	215	102	Kosaka, Zhou, & Li	26.1545	106.2352	Tai-Kadai, Kra, Western Kra
+701	lha	laha1250	Laha (Ta Mit)	Laha_Ta_Mit_701	142	38	Wardlaw & Edmondson	21.5515	103.8638	Tai-Kadai, Kra, Eastern Kra
+707	tiy	tiru1241	Tiruray	Tiruray_707	249	119	Stuart A. Schlegel	6.7732	124.1267	Austronesian, Malayo-Polynesian, Philippine, Bilic
+708	bno	bant1288	Bantoanon (Banton)	Bantoanon_Banton_708	131	112	Gordon & Kilgour	12.5194	122.0342	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Banton
+710	ubl	buhi1243	Bikol (Buhinon)	Bikol_Buhinon_710	179	142	Kenneth S. Olson, et. al.	13.1989	123.4898	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bikol, Inland
+711	kml	lowe1412	Kalinga (Minangali)	Kalinga_Minangali_711	185	152	Kenneth S. Olson, et. al.	17.3441	121.3115	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Kalinga-Itneg, Kalinga
+713	yog	yoga1237	Yogad	Yogad_713	257	185	Davis & Mesa	16.7015	121.7177	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic
+714	aih	aich1238	Ai-Cham (Diwo)	Ai-Cham_Diwo_714	104	24	Lin Shi & Cui Jianxin	25.4908	107.8436	Tai-Kadai, Kam-Tai, Kam-Sui
+720	ckv	kava1241	Kavalan LTs	Kavalan_Lts_720	319	237	Paul Jen-kuei Li	24.6947	121.6446	Austronesian, East Formosan, Northern, Kavalan
+722	bto	irig1242	Bikol (Rinconada)	Bikol_Rinconada_722	235	186	Lobel & Bucad	13.3896	123.3307	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bikol, Inland, Iriga
+724	onb	ling1262	Ong Be (Lincheng)	Ong_Be_Lincheng_724	218	115	Liang Min	19.8634	109.9713	Tai-Kadai, Kam-Tai, Lakkja
+726	bnn	bunu1267	Bunun (Takituduh L88)	Bunun_Takituduh_L88_726	106	100	Paul Jen-kuei Li	23.4116	121.0253	Austronesian, Bunun
+728	giw	whit1267	Gelao (Judu)	Gelao_Judu_728	205	106	Zhou Guoyan	26.1545	106.2352	Tai-Kadai, Kra, Western Kra
+729	giw	whit1267	Gelao (Hongfeng)	Gelao_Hongfeng_729	202	103	Zhou Guoyan	26.1545	106.2352	Tai-Kadai, Kra, Western Kra
+730	duo	dupa1235	Dupaningan Agta	Dupaningan_Agta_730	237	162	Laura C. Robinson	17.3748	122.1881	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Northeastern Luzon, Northern
+734	lao	laoo1244	Lao	Lao_734	212	184	Patterson & Severino	18.2295	102.8814	Tai-Kadai, Kam-Tai, Tai, Southwestern
+736	swi	suii1243	Sui	Sui_736	244	142	Wei Xuecun	25.8035	108.0129	Tai-Kadai, Kam-Tai, Kam-Sui
+742	tay	atay1247	Atayal - C'uli' L04 (Mayrinax)	Atayal_Culi_L04_Mayrinax_742	225	198	Paul Jen-kuei Li	24.5209	121.3882	Austronesian, Atayalic, Atayal, C'uli'
+750	skb	saek1240	Saek	Saek_750	191	29	William J. Gedney	17.4829	104.8203	Tai-Kadai, Kam-Tai, Tai, Northern
+754	lbc	lakk1238	Lakkja (Jinxiu)	Lakkja_Jinxiu_754	198	23	Mao Zongwu, et. al.	24.1169	110.1058	Tai-Kadai, Kam-Tai, Lakkja
+755	msb	masb1238	Masbatenyo	Masbatenyo_755	267	229	Elmer P. Wolfenden	12.2145	123.6358	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Peripheral
+759	pyu	puyu1239	Puyuma (Nanwang Cq)	Puyuma_Nanwang_Cq_759	203	172	Josiane Cauquelin	22.6430	120.9963	Austronesian, Puyuma
+760	uun	kulo1237	Pazih LTs (Auran)	Pazih_Lts_Auran_760	283	224	Paul Jen-kuei Li, Shigeru Tsuchida	23.7562	120.9758	Austronesian, Northwest Formosan
+767	zyb	yong1276	Zhuang (Wuming)	Zhuang_Wuming_767	230	183	Zhang Junru	-	-	Tai-Kadai, Kam-Tai, Tai, Northern
+772	lic	hlai1239	Hlai (Baoding)	Hlai_Baoding_772	228	145	Ouyang Jueya, Zheng Yiqing	-	-	Tai-Kadai, Hlai
+778	tdd	tain1252	Dehong	Dehong_778	296	28	Luo Yongxian	-	-	Tai-Kadai, Kam-Tai, Tai, Southwestern
+782	lwh	whit1266	Lachi (Tân Lợi)	Lachi_Tan_Loi_782	240	146	Ryuichi Kosaka	-	-	Tai-Kadai, Kra, Western Kra
+783	war	wara1300	Samar-Leyte	Samar-Leyte_783	115	111	Alfonsa E. Tizon	12.0000	125.0000	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Warayan, Samar-Waray
+788	tgl	taga1270	Marinduque Tagalog	Marinduque_Tagalog_788	140	124	Rosa Soberano	15.0000	121.0000	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Tagalog
+789	doc	nort2735	Dong, Northern	Dong_Northern_789	222	123	Long Yaohong & Zheng Guoqiao	26.0000	108.5000	Tai-Kadai, Kam-Tai, Kam-Sui
+791	lwh	whit1266	Lachi (Jinchang)	Lachi_Jinchang_791	211	137	Li Yunbing	-	-	Tai-Kadai, Kra, Western Kra
+799	ami	amis1246	Amis (Fata'an)	Amis_Fataan_799	195	167	Li (2004)	23.3333	121.3333	Austronesian, East Formosan, Amis
+800	ami	amis1246	Amis (Farang)	Amis_Farang_800	201	174	Li (2004)	23.3333	121.3333	Austronesian, East Formosan, Amis
+801	ais	nata1254	Sakizaya	Sakizaya_801	193	131	Li (2004)	-	-	Austronesian, East Formosan, Amis
+802	tay	atay1247	Atayal - C'uli' L04 (Skikun)	Atayal_Culi_L04_Skikun_802	201	185	Li (2004)	24.5000	121.3333	Austronesian, Atayalic, Atayal, C'uli'
+803	bnn	bunu1267	Bunun (Takituduh L04)	Bunun_Takituduh_L04_803	215	201	Li (2004)	-	-	Austronesian, Bunun
+804	bnn	bunu1267	Bunun (Takbanuaz)	Bunun_Takbanuaz_804	212	204	Li (2004)	-	-	Austronesian, Bunun
+805	bnn	bunu1267	Bunun (Iskubun)	Bunun_Iskubun_805	213	199	Li (2004)	-	-	Austronesian, Bunun
+806	pwn	paiw1248	Paiwan (Butanglu L04)	Paiwan_Butanglu_L04_806	204	195	Li (2004)	22.5000	120.8333	Austronesian, Paiwan
+807	pwn	paiw1248	Paiwan (Stimul L04)	Paiwan_Stimul_L04_807	203	199	Li (2004)	22.5000	120.8333	Austronesian, Paiwan
+808	pwn	paiw1248	Paiwan (Tjubar L04)	Paiwan_Tjubar_L04_808	204	202	Li (2004)	22.5000	120.8333	Austronesian, Paiwan
+809	pyu	puyu1239	Puyuma (Pilam L04)	Puyuma_Pilam_L04_809	214	203	Li (2004)	-	-	Austronesian, Puyuma
+810	pyu	puyu1239	Puyuma (Lower Pinlang L04)	Puyuma_Lower_Pinlang_L04_810	213	204	Li (2004)	-	-	Austronesian, Puyuma
+811	pyu	puyu1239	Puyuma (Katipul L04)	Puyuma_Katipul_L04_811	210	201	Li (2004)	-	-	Austronesian, Puyuma
+812	dru	ruka1240	Rukai (Tanan L04)	Rukai_Tanan_L04_812	209	197	Li (2004)	22.8333	120.8333	Austronesian, Rukai
+813	dru	ruka1240	Rukai (Budai L04)	Rukai_Budai_L04_813	207	197	Li (2004)	22.8333	120.8333	Austronesian, Rukai
+814	dru	ruka1240	Rukai (Maga L04)	Rukai_Maga_L04_814	215	196	Li (2004)	22.8333	120.8333	Austronesian, Rukai
+815	dru	ruka1240	Rukai (Tona)	Rukai_Tona_815	206	184	Li (2004)	22.8333	120.8333	Austronesian, Rukai
+816	dru	ruka1240	Rukai (Mantauran L04)	Rukai_Mantauran_L04_816	205	169	Li (2004)	22.8333	120.8333	Austronesian, Rukai
+817	xsy	sais1237	Saisiyat L04 (Tungho)	Saisiyat_L04_Tungho_817	205	202	Li (2004)	-	-	Austronesian, Northwest Formosan
+818	xsy	sais1237	Saisiyat L04 (Ta'ai)	Saisiyat_L04_Taai_818	200	199	Li (2004)	-	-	Austronesian, Northwest Formosan
+819	tay	atay1247	Atayal - Squliq L04	Atayal_Squliq_L04_819	215	211	Li (2004)	24.5000	121.3333	Austronesian, Atayalic, Atayal, Squliq
+820	trv	taro1264	Seediq L04 (Paran)	Seediq_L04_Paran_820	213	210	Li (2004)	24.1667	121.4167	Austronesian, Atayalic, Seediq
+821	trv	taro1264	Seediq L04 (Toda)	Seediq_L04_Toda_821	215	214	Li (2004)	24.1667	121.4167	Austronesian, Atayalic, Seediq
+822	trv	taro1264	Seediq L04 (Hecuo)	Seediq_L04_Hecuo_822	211	210	Li (2004)	24.1667	121.4167	Austronesian, Atayalic, Seediq
+823	trv	taro1264	Seediq L04 (Truku)	Seediq_L04_Truku_823	204	201	Li (2004)	24.1667	121.4167	Austronesian, Atayalic, Seediq
+824	tsu	tsou1248	Tsou (Duhtu L04)	Tsou_Duhtu_L04_824	206	178	Li (2004)	23.5000	120.7500	Austronesian, Tsouic, Tsou
+825	xnb	kana1286	Kanakanabu L04	Kanakanabu_L04_825	214	170	Li (2004)	23.3235	120.8870	Austronesian, Tsouic, Kanakanabu
+826	sxr	saar1237	Saaroa L04	Saaroa_L04_826	213	184	Li (2004)	23.2632	120.7110	Austronesian, Tsouic, Saaroa
+831	bzg	babu1240	Favorlang OL03	Favorlang_Ol03_831	372	322	Naoyoshi Ogawa	24.0017	120.5850	Austronesian, Western Plains, Central Western Plains, Favorlang-Babuza
+832	byq	basa1287	Basay L04	Basay_L04_832	129	111	Paul Jen-kuei Li	25.0046	121.8570	Austronesian, East Formosan, Northern, Basay
+833	zyn	yong1275	Daxin	Daxin_833	213	25	Zhang et al (1999)	21.8375	107.3622	Tai-Kadai, Kam-Tai, Tai, Central
+835	zch	cent2009	Fusui (Central)	Fusui_Central_835	196	24	Zhang et al (1999)	23.6818	107.1840	Tai-Kadai, Kam-Tai, Tai, Northern
+836	zyn	yong1275	Guangnan Nong	Guangnan_Nong_836	221	159	Zhang et al (1999)	21.8375	107.3622	Tai-Kadai, Kam-Tai, Tai, Central
+837	zch	cent2009	Guigang	Guigang_837	212	160	Zhang et al (1999)	23.6818	107.1840	Tai-Kadai, Kam-Tai, Tai, Northern
+859	bcl	cent2087	Bikol (Bisakol)	Bikol_Bisakol_859	220	195	Roberto Gimoro	13.7574	123.4030	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bikol, Coastal, Naga
+860	cgc	kaga1256	Kagayanen	Kagayanen_860	235	187	Multiple contributors from Cagayancillo, Palawan	10.4656	119.8720	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, North
+862	skb	saek1240	Saek	Saek_862	322	212	William J. Gedney	17.4558	104.7870	Tai-Kadai, Kam-Tai, Tai, Northern
+866	gir	redg1235	Red Gelao	Red_Gelao_866	49	9	Jerold Edmondson, Li Jinfang	23.1868	104.9930	Tai-Kadai, Kra, Western Kra
+928	enc	ennn1243	En (Nung Ven)	En_Nung_Ven_928	83	19	Li Jinfang	22.8386	106.1670	Tai-Kadai, Kra, Eastern Kra
+937	lbc	lakk1238	Lakkja (Liula)	Lakkja_Liula_937	204	123	Guangxi Minority Languages Orthography Committee. 2008.	24.1169	110.1060	Tai-Kadai, Kam-Tai, Lakkja
+947	laq	qabi1235	Qabiao (Phó Là)	Qabiao_Pho_La_947	234	178	Hoàng Văn Ma	23.2384	104.8120	Tai-Kadai, Kra, Eastern Kra
+974			Yao (Lianmin)	Yao_Lianmin_974	72	0	Suining County Almanac	-	-	Tai-Kadai
+978	itv	itaw1240	Itawis	Itawis_978	193	178	Norman Barrias	17.7329	121.5800	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic
+1200	pam	pamp1243	Kapampangan	Kapampangan_1200	232	180	Eduardo John A. Balatbat	14.9603	120.5020	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Pampangan
+1208	bcl	cent2087	Naga Bikol	Naga_Bikol_1208	160	140	Geopoet	13.1989	123.4900	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bikol, Inland
+1211	atz	arta1239	Arta	Arta_1211	215	141	Yukinori Kimoto	16.4185	121.6560	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Arta
+1215	pns	pono1240	Ponosakan	Ponosakan_1215	76	70	Lobel. 2015	0.9172	124.7120	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Gorontalo-Mongondow, Mongondowic
+1257	sgb	maga1263	Ayta Mag-antsi	Ayta_Mag-Antsi_1257	255	175	Storck, Kurt and Margaret Storck, compilers	15.1954	120.4590	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic
+1258	abd	cama1250	Manide	Manide_1258	103	63	Jason Lobel (2010)	14.1571	122.8350	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Umiray Dumaget
+1259	bvy	bayb1234	Utudnon	Utudnon_1259	49	42	Carl Rubino (2005)	-	-	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Warayan
+1260	atk	atii1237	Inati (Nagpana)	Inati_Nagpana_1260	168	140	Pennoyer (1987)	11.1539	122.5120	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Periphera
+1261	due	umir1236	Umiray Dumaget	Umiray_Dumaget_1261	108	48	Ronald Himes (2002)	14.8757	121.5080	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Umiray Dumaget
+1262	abp	aben1249	Ayta Abellen	Ayta_Abellen_1262	141	127	Stone (2008)	15.4131	120.2000	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic
+1263	abc	amba1267	Ayta Ambala	Ayta_Ambala_1263	127	114	Stone (2008)	14.8156	120.2830	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic
+1264	sgb	maga1263	Ayta Mag-anchi	Ayta_Mag-Anchi_1264	141	136	Stone (2008)	15.1954	120.4590	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic
+1265	smk	boli1256	Bolinao	Bolinao_1265	141	126	Stone (2008)	16.3071	119.8530	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic
+1266	sbl	boto1242	Botolan Sambal	Botolan_Sambal_1266	141	136	Stone (2008)	15.2315	120.1640	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic
+1267	blx	magi1241	Ayta Mag-indi	Ayta_Mag-Indi_1267	141	133	Stone (2008)	14.9617	120.1820	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic
+1268		tina1248	Sambal	Sambal_1268	141	129	Stone (2008)	15.5797	120.0950	Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic
+1269	iry	iray1237	Iraya	Iraya_1269	206	129	Barbian (1977)	13.3810	120.6500	Austronesian, Malayo-Polynesian, Philippine, North Mangyan
+1270	alj	alan1249	Alangan	Alangan_1270	248	137	Barbian (1977)	13.0982	121.0220	Austronesian, Malayo-Polynesian, Philippine, North Mangyan
+1271	tdy	tady1237	Tadyawan	Tadyawan_1271	247	118	Barbian (1977)	13.0211	121.3050	Austronesian, Malayo-Polynesian, Philippine, North Mangyan
+1272	bku	buhi1245	Batangan	Batangan_1272	256	117	Barbian (1977)	12.6396	121.2100	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, South Mangyan, Buhid-Taubuid
+1273	bku	buhi1245	Buhid	Buhid_1273	231	139	Barbian (1977)	12.6396	121.2100	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, South Mangyan, Buhid-Taubuid
+1274	hnn	hanu1241	Hanunoo	Hanunoo_1274	228	188	Barbian (1977)	12.4159	121.2210	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, South Mangyan, Hanunoo
+1275	btn	rata1245	Ratagnon	Ratagnon_1275	198	137	Barbian (1977)	12.2785	121.1870	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, West, Kuyan
+1276	atk	atii1237	Sogodnin (Boracay)	Sogodnin_Boracay_1276	92	81	Pennoyer (1987)	11.1539	122.5120	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Periphera
+1277	atk	atii1237	Sogodnin (Iloilo)	Sogodnin_Iloilo_1277	96	82	Pennoyer (1987)	11.1539	122.5120	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Periphera
+1278	itv	itaw1240	Malaweg	Malaweg_1278	186	157	Laurie Reid	17.7329	121.5800	Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic
+1328	pwn	paiw1248	Paiwan (Tjatjigel Egli)	Paiwan_Tjatjigel_Egli_1328	214	170	Hans Egli, 2002, Paiwanwörterbuch. Harrassowitz	22.3271	120.8060	Austronesian, Paiwan
+1516	fos	sira1267	Siraya A	Siraya_A_1516	58	45	Adelaar, Alexander, 2011	-	-	Austronesian, East Formosan, Southwest
+1517	fos	sira1267	Siraya UM (Utrecht Manuscript) dialect	Siraya_Um_Utrecht_Manuscript_Dialect_1517	187	173	C. J. Van der Vlis, 1842, Formosaanse woordenlijst	-	-	Austronesian, East Formosan, Southwest
+1519	fos	sira1267	Siraya Gospel dialect	Siraya_Gospel_Dialect_1519	199	180	Adelaar, Alexander 2011	-	-	Austronesian, East Formosan, Southwest
+1644	sou	sout2746	Southern Thai	Southern_Thai_1644	164	138	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai PH, Lao-Thai, Southern Thai, Tak Bai, Thai Malay
+1645	blt	taid1247	Tai Dam 1	Tai_Dam_1_1645	146	126	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai P, Black Tai, Tai Dam
+1646	blt	taid1247	Tai Dam 2	Tai_Dam_2_1646	152	132	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai P, Black Tai, Tai Dam
+1647	tdd	tain1252	Tai Nüa 1	Tai_Nua_1_1647	164	138	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai P, Shan Tai, Northern Shan, Tai Nüa
+1648	tdd	tain1252	Tai Nüa 2	Tai_Nua_2_1648	140	120	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai P, Shan Tai, Northern Shan, Tai Nüa
+1649	tdd	tain1252	Tai Nüa 3	Tai_Nua_3_1649	139	119	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai P, Shan Tai, Northern Shan, Tai Nüa
+1650	tdd	tain1252	Tai Nüa 4	Tai_Nua_4_1650	136	120	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai P, Shan Tai, Northern Shan, Tai Nüa
+1651	tha	thai1261	Thai	Thai_1651	164	139	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai P, Lao-Tai, Thai
+1652	lao	laoo1244	Lao	Lao_1652	164	143	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai P, Lao-Tai, Lao
+1653	shn	shan1277	Shan	Shan_1653	161	132	Dr. Pittayawat Pittayaporn (Joe)	-	-	Tai-Kadai, Kam-Tai, Daic-Beic, Daic, Central-Southwestern Tai, Wenma-Southwestern Tai, Sapa-Southwestern Tai, Southwestern Tai, Southwestern Thai P, Shan Tai, Northern Shan, Shan
+18	cha	cham1312	Chamorro	Chamorro_18	281	114	Blust, from: Topping (1975)	13.5606	144.8657	Austronesian, Malayo-Polynesian, Chamorro
+109	pau	pala1344	Palauan	Palauan_109	220	71	Blust from: McManus (1977)	7.4513	134.3402	Austronesian, Malayo-Polynesian, Palauan

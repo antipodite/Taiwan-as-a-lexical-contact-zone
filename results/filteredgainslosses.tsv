@@ -1,0 +1,45 @@
+node	cognate_set	posterior	filter	reason	sample_witnesses	abvd_witnesses	abvd_url
+NWAtayalic	eye_2	0.95	kept				https://abvd.clld.org/cognatesets/eye-2
+NWAtayalic	when_2	0.69	kept				https://abvd.clld.org/cognatesets/when-2
+NWAtayalic	toopenuncover_14	0.67	kept				https://abvd.clld.org/cognatesets/toopenuncover-14
+NWAtayalic	breast_3	0.66	excluded	attested outside Taiwan in sample	Botolan_Sambal_1266; Sambal_Botolan_444	Balinese; Bilur; Botolan Sambal; Futuna-Aniwa (Aniwa); Gumawana; Hoava; Kilivila; Malagasy (Sakalava); Malagasy (Tanala); Malagasy (Tandroy); Merina (Malagasy); Minaveha; Mono; Mono (Alu); Mono (Fauro); Nukuoro; Sambal, Botolan; Solos; South Efate; V'ënen Taut (Leviamp); V'ënen Taut (Unmet); Venen Taute (Alpalak); Venen Taute (Hamax); Venen Taute (Unmet); Wogeo	https://abvd.clld.org/cognatesets/breast-3
+NWAtayalic	new_41	0.58	kept				https://abvd.clld.org/cognatesets/new-41
+NorthwestClade	eight_1	0.97	excluded	attested outside Taiwan in ABVD		East Makian	https://abvd.clld.org/cognatesets/eight-1
+NorthwestClade	house_21	0.84	excluded	attested outside Taiwan in ABVD		Wampar	https://abvd.clld.org/cognatesets/house-21
+NorthwestClade	five_2	0.83	kept				https://abvd.clld.org/cognatesets/five-2
+NorthwestClade	head_34	0.83	kept				https://abvd.clld.org/cognatesets/head-34
+NorthwestClade	nose_26	0.8	kept				https://abvd.clld.org/cognatesets/nose-26
+NorthwestClade	year_2	0.75	excluded	attested outside Taiwan in sample	Imorod_250; Iraralay_248; Isamorong_252; Itbayat_249; Itbayaten_157; Itbayaten_425; Ivasay_251; Ivatan_Basco_Dialect_427; Yami_335	Imorod; Iraralay; Isamorong; Itbayat; Itbayaten; Ivasay; Ivatan, Basco Dialect; Yami	https://abvd.clld.org/cognatesets/year-2
+NorthwestClade	branch_22	0.72	excluded	attested outside Taiwan in sample	Atta_Pamplona_410; Bontok_Eastern_673; Bontok_Guina-ang_36; Ibaloi_679; Ibanag_279; Isinay_Dupax_1463; Itawis_678; Itawis_978; Kakidugen_Ilongot_31; Kalinga_Southern_671; Kankanaey_681; Maguindanaon_685; Tonsea_496; Yogad_713	Atta, Pamplona; Banggai (W.dialect); Bantik; Bonerate; Bontok, Eastern; Bontok, Guina-ang; Ibaloi; Ibanag; Isinay (Dupax); Itawis; Kakiduge:n Ilongot; Kalinga, Southern; Kankanaey; Maguindanaon; Manggarai; Popalia; Sakao (Port-Olry); Tomini (Tialo); Tonsea; Yakan; Yogad	https://abvd.clld.org/cognatesets/branch-22
+NorthwestClade	sand_2	0.67	excluded	attested outside Taiwan in ABVD		Banggai (W.dialect); Bare'e; Kulisusu; Muna (Katobu-Tongkuno Dialect); Taloki; Wolio	https://abvd.clld.org/cognatesets/sand-2
+NorthwestClade	mother_2	0.65	kept				https://abvd.clld.org/cognatesets/mother-2
+NorthwestClade	flower_3	0.62	excluded	attested outside Taiwan in ABVD		Mandri (Farun) 162-91	https://abvd.clld.org/cognatesets/flower-3
+NorthwestClade	father_14	0.55	kept				https://abvd.clld.org/cognatesets/father-14
+RukaiTsouic	fruit_2	0.83	kept				https://abvd.clld.org/cognatesets/fruit-2
+RukaiTsouic	painfulsick_3	0.8	kept				https://abvd.clld.org/cognatesets/painfulsick-3
+RukaiTsouic	tosniffsmell_3	0.79	kept				https://abvd.clld.org/cognatesets/tosniffsmell-3
+RukaiTsouic	tospit_3	0.78	kept				https://abvd.clld.org/cognatesets/tospit-3
+RukaiTsouic	toflow_25	0.71	kept				https://abvd.clld.org/cognatesets/toflow-25
+RukaiTsouic	shoulder_49	0.66	kept				https://abvd.clld.org/cognatesets/shoulder-49
+RukaiTsouic	and_22	0.57	excluded	attested outside Taiwan in ABVD		Amara; Tetun Terik (Fehan dialect)	https://abvd.clld.org/cognatesets/and-22
+PaiwanPuyuma	todrink_44	0.96	kept				https://abvd.clld.org/cognatesets/todrink-44
+PaiwanPuyuma	heavy_3	0.92	excluded	attested outside Taiwan in ABVD		Tomoip	https://abvd.clld.org/cognatesets/heavy-3
+PaiwanPuyuma	sea_51	0.92	kept				https://abvd.clld.org/cognatesets/sea-51
+PaiwanPuyuma	that_13	0.8	kept				https://abvd.clld.org/cognatesets/that-13
+PaiwanPuyuma	tochew_2	0.78	excluded	attested outside Taiwan in ABVD		Jawe	https://abvd.clld.org/cognatesets/tochew-2
+PaiwanPuyuma	tofall_4	0.72	kept				https://abvd.clld.org/cognatesets/tofall-4
+PaiwanPuyuma	onethousand_7	0.59	kept				https://abvd.clld.org/cognatesets/onethousand-7
+RTPP	year_22	0.94	kept				https://abvd.clld.org/cognatesets/year-22
+RTPP	toopenuncover_52	0.9	kept				https://abvd.clld.org/cognatesets/toopenuncover-52
+RTPP	what_16	0.76	excluded	attested outside Taiwan in ABVD		Iban; Tunjung; Urak Lawoi'	https://abvd.clld.org/cognatesets/what-16
+RTPP	toscratch_62	0.73	kept				https://abvd.clld.org/cognatesets/toscratch-62
+RTPP	star_45	0.7	kept				https://abvd.clld.org/cognatesets/star-45
+RTPP	toswell_46	0.69	kept				https://abvd.clld.org/cognatesets/toswell-46
+RTPP	onehundred_1	0.65	excluded	attested outside Taiwan in ABVD		Irarutu	https://abvd.clld.org/cognatesets/onehundred-1
+RTPP	thick_21	0.65	excluded	attested outside Taiwan in sample	Agutyanen_1569; Aklanon_Bisayan_43; Batak_Palawan_412; Cuyonon_688; Hanunoo_13; Inati_Hamtic_1553; Inati_Jordan_Guimaras_1554; Kagayanen_860; Kalagan_428; Kinaray-a_657; Mamanwa_433; Manobo_Dibabawon_436; Mansaka_442; Masbatenyo_755; Palawan_Batak_265; Romblon_687; Tagbanwa_Kalamian_Coron_Island_Dialect_451; Tausug_Jolo_Dialect_452; Waray-Waray_513	Agutyanen; Aklanon - Bisayan; Batak, Palawan; Cuyonon; Hanunóo; Inati (Hamtic); Inati (Jordan, Guimaras); Kagayanen; Kalagan; Kinaray-a; Mamanwa; Manobo, Dibabawon; Mansaka; Masbatenyo; Palawan Batak; Romblon; Tagbanwa, Kalamian, Coron Island Dialect; Tausug, Jolo Dialect; Waray-Waray	https://abvd.clld.org/cognatesets/thick-21
+NorthClade	day_15	0.82	kept				https://abvd.clld.org/cognatesets/day-15
+NorthClade	child_34	0.81	excluded	attested outside Taiwan in ABVD		East Kara (Lemakot)	https://abvd.clld.org/cognatesets/child-34
+NorthClade	dry_2	0.67	kept				https://abvd.clld.org/cognatesets/dry-2
+NorthClade	thunder_24	0.66	kept				https://abvd.clld.org/cognatesets/thunder-24
+NorthClade	tobuy_23	0.63	excluded	attested outside Taiwan in ABVD		Bonerate; Lasalimu; Popalia	https://abvd.clld.org/cognatesets/tobuy-23
+NorthClade	shyashamed_46	0.53	kept				https://abvd.clld.org/cognatesets/shyashamed-46
