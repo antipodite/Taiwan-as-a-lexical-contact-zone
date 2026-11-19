@@ -4,6 +4,8 @@ Follow the instructions below to set things up. After you do that, from the proj
 
 ## Before running
 
+Make sure you have `xz` installed using `brew install xz` or install from your distribution's package manager.
+
 ### Python environment
 
 ```
